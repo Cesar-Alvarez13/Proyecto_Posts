@@ -1,3 +1,18 @@
+
+[![Captura-de-pantalla-2024-03-17-050137.png](https://i.postimg.cc/wT2SPzC3/Captura-de-pantalla-2024-03-17-050137.png)](https://postimg.cc/F7fWdMsQ)
+
+[![Captura-de-pantalla-2024-03-17-050341.png](https://i.postimg.cc/ydfZtkyv/Captura-de-pantalla-2024-03-17-050341.png)](https://postimg.cc/dky3TQXy)
+
+[![Captura-de-pantalla-2024-03-17-050357.png](https://i.postimg.cc/PrDCz696/Captura-de-pantalla-2024-03-17-050357.png)](https://postimg.cc/7fxPqNx7)
+
+[![Captura-de-pantalla-2024-03-17-050430.png](https://i.postimg.cc/y8PF41Bg/Captura-de-pantalla-2024-03-17-050430.png)](https://postimg.cc/XrrZ90r4)
+
+[![Captura-de-pantalla-2024-03-17-050448.png](https://i.postimg.cc/Px8pxTGM/Captura-de-pantalla-2024-03-17-050448.png)](https://postimg.cc/xJnTpr1k)
+
+[![Captura-de-pantalla-2024-03-17-050600.png](https://i.postimg.cc/Mpy9cJwq/Captura-de-pantalla-2024-03-17-050600.png)](https://postimg.cc/cvLRjj6b)
+
+[![Captura-de-pantalla-2024-03-17-050323.png](https://i.postimg.cc/4NcD1MGF/Captura-de-pantalla-2024-03-17-050323.png)](https://postimg.cc/fJwqz8Jx)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
