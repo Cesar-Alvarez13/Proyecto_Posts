@@ -1,0 +1,1 @@
+<img src="{{ asset('image/tiburon.png')}}" class="h-12">
